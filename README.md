@@ -30,6 +30,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Docker
+
+```
+# run the application using Docker by running the command below:
+docker-compose up --build Or docker-compose up
+```
+
 ## Swagger
 
 ```
